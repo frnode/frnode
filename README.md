@@ -32,4 +32,4 @@ I am passionate about all new technologies, which makes me very curious 👀 !
 ![Most Used Languages](https://raw.githubusercontent.com/frnode/github-stats-transparent/output/generated/languages.svg)
 
 ### 🔥 Streak stats
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=frnode&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D&background=00000000)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=frnode&theme=elegant&hide_border=true&date_format=j%20M%5B%20Y%5D&background=00000000)](https://git.io/streak-stats)
