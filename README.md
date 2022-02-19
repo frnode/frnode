@@ -4,10 +4,13 @@
 | ----------- | ----------- |
 | <a href='https://www.linkedin.com/in/gpcorentin/'><img alt="linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a> <a href='https://github.com/frnode'><img alt="linkedin" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/></a> | <a href='https://insys.fr'><img alt="linkedin" src="https://img.shields.io/badge/ghost-000?style=for-the-badge&logo=ghost&logoColor=%23F7DF1E"/></a> <a href='https://www.linkedin.com/company/insys-fr'><img alt="linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a> <a href='https://github.com/in-sys'><img alt="linkedin" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/></a> <a href='https://twitter.com/insys_fr'><img alt="linkedin" src="https://img.shields.io/badge/insys_fr-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/></a> |
 
-`☁️ • Infrastructure and Cloud Administrator` <br >
-`🛡️ • IT Security` <br >
-`🤖 • DevOps` <br >
-`🕵️‍♂️ • Audit and Supervision` <br >
+I am a Freelancer and I work in the following areas in particular: <br >
+- `☁️ Infrastructure and Cloud Administrator`
+- `🛡️ IT Security`
+- `🤖 DevOps`
+- `🕵️‍♂️ Audit and Supervision`
+
+I am passionate about all new technologies, which makes me very curious 👀 !
 
 ### 🔨 Languages and Tools:
 <a href="https://aws.com/" target="_blank"> <img src="https://raw.githubusercontent.com/frnode/README_icons/main/language_and_tools/square/aws/aws.svg" align="left" alt="git" height='42px'/> </a>
