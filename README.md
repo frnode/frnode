@@ -1,15 +1,18 @@
 # Hey 👋, I'm node!
 
 <b><a href='https://github.com/frnode'>Me</a></b>, it's just me 👨‍💻 !
-<a href='https://www.linkedin.com/in/gpcorentin/'><img align='left' alt="linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href='https://github.com/frnode'><img align='left' alt="linkedin" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/></a>
+
+<a href='https://www.linkedin.com/in/gpcorentin/'><img alt="linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href='https://github.com/frnode'><img alt="linkedin" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/></a>
 <br >
 <br >
 <b><a href='https://insys.fr'>INSYS</a></b>, it's my company 🏢 !
- <a href='https://www.linkedin.com/company/insys-fr'><img align='left' alt="linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href='https://github.com/in-sys'><img align='left' alt="linkedin" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/></a>
+
+ <a href='https://www.linkedin.com/company/insys-fr'><img alt="linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href='https://github.com/in-sys'><img alt="linkedin" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/></a>
 <br >
 <br >
+<i>I am a versatilist and easily adapt to different hats (☁️ Infrastructure and Cloud Administrator • 🛡️ IT Security • 🤖 DevOps • 🕵️‍♂️ Audit and Supervision) depending on what the project requires. I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️.</i>
 
 ### 🔨 Languages and Tools:
 <a href="https://aws.com/" target="_blank"> <img src="https://raw.githubusercontent.com/frnode/README_icons/main/language_and_tools/square/aws/aws.svg" align="left" alt="git" height='42px'/> </a>
