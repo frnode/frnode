@@ -4,7 +4,7 @@
 | ----------- | ----------- |
 | <a href='https://www.linkedin.com/in/gpcorentin/'><img alt="linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a> <a href='https://github.com/frnode'><img alt="linkedin" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/></a> | <a href='https://insys.fr'><img alt="linkedin" src="https://img.shields.io/badge/ghost-000?style=for-the-badge&logo=ghost&logoColor=%23F7DF1E"/></a> <a href='https://www.linkedin.com/company/insys-fr'><img alt="linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a> <a href='https://github.com/in-sys'><img alt="linkedin" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/></a> <a href='https://twitter.com/insys_fr'><img alt="linkedin" src="https://img.shields.io/badge/insys_fr-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/></a> |
 
-I am a Freelancer and I work in the following areas in particular: <br >
+Student at @OpenClassRooms and I am a Freelancer and I work in the following areas in particular: <br >
 - `☁️ Infrastructure and Cloud Administrator`
 - `🛡️ IT Security`
 - `🤖 DevOps`
