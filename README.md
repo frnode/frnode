@@ -1,4 +1,4 @@
-# Hey 👋, I'm node!
+# Hey 👋
 
 | <b><a href='https://github.com/frnode'>Me</a></b>, it's just me 👨‍💻 ! | <b><a href='https://insys.fr'>INSYS</a></b>, it's my company 🏢 ! |
 | ----------- | ----------- |
